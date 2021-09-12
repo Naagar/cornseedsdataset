@@ -1,10 +1,10 @@
-# personal-website-template
+# Corn Seeds Images Dataset
 
-A simple one page template suited for personal and portfolio pages. 
+We have introduced a corn seeds images dataset and developed a automated corn seeds classification model using the GANs and Active learning. 
 
 ## Usage
 
-- Fork this repository
-- Rename it to `<your-github-username>.github.io`
-- Edit `index.html` to add your personal details
-- Goto `http://<your-github-username.github.io` and website will be visible there
+- Image classification.
+- Fake images generation of seeds.
+- Training the GANs on this dataset to crate fake images of the corns. 
+- Limitation is your imagination.
