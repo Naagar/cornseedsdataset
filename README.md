@@ -4,6 +4,8 @@ We have introduced a corn seeds images dataset and developed a automated corn se
 
 [visit cornseedsdataset.github.io](https://cornseedsdataset.github.io)
 
+[paper](https://naagar.github.io)
+
 ## Usage
 
 - Image classification.
