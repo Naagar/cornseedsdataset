@@ -2,6 +2,8 @@
 
 We have introduced a corn seeds images dataset and developed a automated corn seeds classification model using the GANs and Active learning. 
 
+visit: cornseedsdataset.github.io
+
 ## Usage
 
 - Image classification.
