@@ -14,4 +14,4 @@ We have introduced a corn seeds images dataset and developed an automated corn s
 - Training the GANs on this dataset to create fake images of the corns. 
 - Limitation is your imagination.
 
-## more details [click here](https://naagar.github.io)
+## more details [click here](https://naagar.github.io/cornseedsdataset/)
